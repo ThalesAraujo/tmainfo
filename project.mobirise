@@ -733,24 +733,6 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@THEME_PATH@/components/_images/background1.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "MANUTENÇÃO",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Pequenas e Médias Empresas, Realizamos Manutenção em Redes Locais, Wi-Fi, Computadores, Impressoras​\n<br>Verificação no Local e via Acesso Remoto​",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
-                "overlayOpacity": "0.6"
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/contruo-de-sites-3-1920x1080.jpg",
                 "active": true,
                 "showButtons": false,
@@ -767,6 +749,24 @@
                 "text": "Construimos seu Site com agilidade. Sites responsivos que permitem ter um rápido poder de resposta e formatado para funcionar em diferentes tipos de dispositivos.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
                 "overlayOpacity": "0.8"
+              },
+              {
+                "image": "@THEME_PATH@/components/_images/background1.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "MANUTENÇÃO",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Pequenas e Médias Empresas, Realizamos Manutenção em Redes Locais, Wi-Fi, Computadores, Impressoras​\n<br>Verificação no Local e via Acesso Remoto​",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
+                "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1281.jpg",
